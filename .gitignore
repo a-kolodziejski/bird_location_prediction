@@ -175,3 +175,6 @@ cython_debug/
 
 # Rest of ignored files
 bird_location_prediction.code-workspace
+runs
+save_data/*
+save_train_val_test_data/*
